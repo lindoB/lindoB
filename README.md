@@ -1,4 +1,13 @@
-I am a third-year Bachelor of Computing/ IT student at Belgium Campus IT Versity with a strong interest in software and web development. I have experience working with C#, JavaScript, HTML, CSS, SQL, and Microsoft PowerApps.
+ 👋hi I am Lindokuhle shangase
+ 🎓 I am a third-year software engineering student at Belgium Campus IT Versity.
+  with a strong interest in software and web development, Passionate about AI, IoT, and Sustainable Tech. 
+ 💼 Seeking internship/graduate opportunities in software development 
+
+🚀 Skills
+programming: C#, JavaScript, SQL
+Web: HTML, CSS5 and JavaScript
+
+
 you can contact me via email: lindokuhleshangase390@gmail.com
 my linkedin: https://www.linkedin.com/in/lindokuhle-shangase/
 <!---
