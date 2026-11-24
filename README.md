@@ -15,7 +15,8 @@ Web: HTML, CSS5 and JavaScript
 you can contact me via email: lindokuhleshangase390@gmail.com
 my linkedin: https://www.linkedin.com/in/lindokuhle-shangase/
 
-This is one of the project I worked on which 
+This is one of the project I worked on which is a digital platform address an issue of an absence of a centralized platform where a  community can report different issues ranges from IT issues to stolen properties and other incidencies. 
+follow this link to access it. https://comm-connect.vercel.app 
 <!---
 lindoB/lindoB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
