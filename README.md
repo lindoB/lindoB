@@ -1,13 +1,14 @@
- 👋hi I am Lindokuhle shangase.
+  hi I am Lindokuhle shangase.
  
- 🎓 I am a third-year software engineering student at Belgium Campus IT Versity.
+  I am a third-year software engineering student at Belgium Campus IT Versity.
  
   with a strong interest in software and web development, Passionate about AI, IoT, and Sustainable Tech. 
   
- 💼 Seeking internship/graduate opportunities in software development.
+  seeking internship/graduate opportunities in software development.
 
-🚀 Skills
-programming: C#, JavaScript, SQL
+Skills
+programming: C#, JavaScript, Java,
+Backend: SQL, Postgres, MongoDB, Flask API
 Web: HTML, CSS5 and JavaScript
 
 
