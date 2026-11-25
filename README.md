@@ -15,9 +15,7 @@ Web: HTML, CSS5 and JavaScript
 you can contact me via email: lindokuhleshangase390@gmail.com
 my linkedin: https://www.linkedin.com/in/lindokuhle-shangase/
 
-This is one of the project I worked on with my other fellow 2 students which is a digital platform address an issue of an absence of a centralized platform where a  community can report different issues ranges from IT issues to stolen properties and other incidencies. 
-follow this link to access it. For more information about the project please see the Repository named CommConnect. 
-Tech stack used: MERN stack
+Third year software engineering student at Belgium Campus. With two classmates I built CommConnect on MERN so a community can report issues in one place
 https://comm-connect.vercel.app 
 <!---
 lindoB/lindoB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
